@@ -116,6 +116,9 @@ def instructions():
 
 
 # main routine goes here
+
+statement_generator("BIT CALCULATOR", "~")
+
 # asks if the user wants to see the instructions
 want_instructions = input("\nPress <enter> to read the instructions or any key to continue ")
 
